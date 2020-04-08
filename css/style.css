@@ -37,6 +37,7 @@ Author Name: xcodesolution (https://themeforest.net/user/xcodesolution)
 20. Dark Version CSS 
 21. Demo List Page CSS 
 
+
 */
 
 /*****-----*****-----*****-----*****
@@ -1998,3 +1999,11 @@ input:-moz-placeholder {
     font-size: 36px;
     line-height: 1.5;
 }
+
+
+.fb-post{
+    align-items: center;
+    flex: auto;
+    margin-left: 590px;
+}
+

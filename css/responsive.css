@@ -8,6 +8,10 @@
 	.shep-right, .shep-left {
 		width: 350px;
 	}
+	.fb-post{
+		
+		margin-left: 420px;
+	}
 }
 
 @media only screen and (max-width:1199px) {
@@ -28,6 +32,10 @@
 	}
 	.info-box {
 		padding: 40px 20px;
+	}
+	.fb-post{
+		
+		margin-left: 300px;
 	}
 }
 
@@ -87,7 +95,10 @@
 	.gallery-area {
 		padding: 100px 0;
 	}
-
+	.fb-post{
+		
+		margin-left: 240px;
+	}
 }
 
 @media only screen and (max-width:767px) {
@@ -129,7 +140,10 @@
 	.venue-details ul li {
 		font-size: 16px;
 	}
-
+	.fb-post{
+		
+		margin-left: 100px;
+	}
 
 
 }
@@ -155,6 +169,10 @@
 	}
 	.pricingTable .pricingTable-header:before {
 		left: -35%;
+	}
+	.fb-post{
+		
+		margin-left: 30px;
 	}
 	
 }
@@ -184,6 +202,10 @@
 	}
 	.schedule-box h3 {
 		line-height: 25px;
+	}
+	.fb-post{
+		
+		margin-left: 10px;
 	}
 }
 
@@ -216,6 +238,10 @@
 	.comment-item img {
 		position: relative;
 		margin-bottom: 20px;
+	}
+	.fb-post{
+		
+		margin-left: 15px;
 	}
 	
 }
@@ -251,6 +277,10 @@
 	.our-speaker:hover .social {
 	    top: 60%;
 	}
+	.fb-post{
+		
+		margin-left: 15px;
+	}
 }
 
 @media only screen and (max-width:375px) {
@@ -271,6 +301,10 @@
 	    margin: 0 2px;
 	}
 
+	.fb-post{
+		
+		margin-left: 10px;
+	}
 
 }
 
