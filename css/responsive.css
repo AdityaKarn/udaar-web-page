@@ -310,5 +310,8 @@
 
 
 @media only screen and (max-width:320px) {
-	
+	.fb-post{
+		
+		margin-left: 10px;
+	}
 }
