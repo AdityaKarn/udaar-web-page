@@ -3,3 +3,4 @@ site to help poor people in the times of corona outbreak by providing them with 
 
 
 up and running on http://udaar.in/
+and dev-run on https://adityakarn.github.io/udaar-web-page/
